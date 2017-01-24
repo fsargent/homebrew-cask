@@ -1,6 +1,6 @@
 cask 'shapes' do
   version '4.8.6'
-  sha256 '6f564eb69816b9797343df20aef0ca25a37eccd76f5c9ea628de52d98fa0aa54'
+  sha256 '2bd98ff0f77d32aa8bcc32f945d78c374b5db2e4d737cee64df9d527fad982ba'
 
   url "http://shapesapp.com/dist/Shapes_#{version}.zip"
   appcast "http://shapesapp.com/appcast/shapes#{version.major}.rss",
